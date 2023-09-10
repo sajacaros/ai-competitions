@@ -7,9 +7,6 @@
 &nbsp; * <a href="https://drive.google.com/file/d/1WhlQ3RUEuRfoF79ZhFe6iuGmRoF2NCBe/view">미리보기</a> | <a href="https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy/raw/main/minimap/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EC%A0%84%EB%9E%B5%20%EA%B3%B5%EB%9E%B5%EC%A7%91.pdf">공략집(with 미니맵)</a> | <a href="https://docs.google.com/spreadsheets/d/1PCVvfUl5utSPnaRk0ArFTgS9xdWAGSLFrwbD8Rl7X2c/edit#gid=0">정오표</a>  <br>
 &nbsp; * 구매처 : <a href="https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191905076">교보문고</a>, <a href="http://www.yes24.com/product/goods/108802734">예스24</a>, <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292510407">알라딘</a>, <a href="https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=354673660&sc.saNo=003002001">인터파크</a>
 
-<pre>
-</pre>
-
 
 **★ 문제해결 방식에 정답은 없어도 패턴은 있습니다.**
 
@@ -259,5 +256,6 @@ KAIST 산업및시스템공학과 졸업 후 한국생산성본부에서 직무�
 
 ## Must Have 시리즈 안내
 Must Have 시리즈는 내 것으로 만드는 시간을 드립니다. 명확한 학습 목표와 핵심 정리를 제공하고, 간단명료한 설명과 다양한 그림으로 학습 효과를 극대화합니다. 예제를 제공해 응용력을 키워줍니다. 할 수 있습니다. 포기는 없습니다. 지금 당장 밑줄 긋고 메모하고 타이핑하세요! Must Have가 여러분의 성장을 돕겠습니다.
-#   m u s t h a v e _ m l d l _ p r o b l e m _ s o l v i n g _ s t r a t e g y  
+#   m u s t h a v e _ m l d l _ p r o b l e m _ s o l v i n g _ s t r a t e g y 
+ 
  
