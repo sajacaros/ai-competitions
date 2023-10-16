@@ -277,5 +277,4 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/linux,macos,python,pycharm,windows,visualstudiocode
 
-data/**/train.csv
-data/**/test.csv
+data/**/*.csv
