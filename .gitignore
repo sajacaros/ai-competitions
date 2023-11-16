@@ -281,3 +281,5 @@ data/**/*.csv
 data/**/*.jpg
 data/**/*.png
 data/**/*.zip
+
+*.jpeg
