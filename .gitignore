@@ -282,4 +282,4 @@ data/**/*.jpg
 data/**/*.png
 data/**/*.zip
 
-*.jpeg
+data/**/*.jpeg
